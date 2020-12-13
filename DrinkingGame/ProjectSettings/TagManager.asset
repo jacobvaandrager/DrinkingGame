@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - task
+  - xmas1
+  - xmas2
+  - xmas3
+  - xmas4
+  - xmas5
   layers:
   - Default
   - TransparentFX
