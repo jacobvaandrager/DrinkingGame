@@ -64,7 +64,14 @@ public class DrunkPicker : MonoBehaviour
         TaskList.Add("All players start drinking, they can only stop when you stop drinking.");
         TaskList.Add("Anyone who claims they are not drunk must drink.");
         TaskList.Add("Go around the room and say everyone's last name, drink for everytime you can't.");
-       
+
+        TaskList.Add("Say the story of your first-time, or finish your drink.");
+        TaskList.Add("Name the story of when you were most drunk, then give 2 sips.");
+        TaskList.Add("Gesture your favourite sex position or drink 3 sips.");
+        TaskList.Add("Do your best impression of 1 person in the group or take 4 sips.");
+        TaskList.Add("SAMPLE");
+        TaskList.Add("SAMPLE");
+
 
         //initalise button
         nextButton = nextButton.GetComponent<Button>();

@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DrunkScene.unity
     guid: ae36a4d5cdd30bd47b256152a26ec0cd
+  - enabled: 1
+    path: Assets/Scenes/ArtCardsChristmas.unity
+    guid: 5976466dff665274989c7810d91315f8
   m_configObjects: {}

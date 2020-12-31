@@ -115,6 +115,16 @@ public class SoberPicker : MonoBehaviour
         TaskList.Add("Give out 3 sips.");
         TaskList.Add("Pick someone to drink.");
 
+
+        TaskList.Add("Name the story of when you were most drunk, then give 2 sips.");
+        TaskList.Add("What is something illegal that you have done before & give 3 sips");
+        TaskList.Add("Drink if you have a cracked screen.");
+        TaskList.Add("SAMPLE");
+        TaskList.Add("SAMPLE");
+        TaskList.Add("SAMPLE");
+        TaskList.Add("SAMPLE");
+        TaskList.Add("SAMPLE");
+
         //initalise button
         nextButton = nextButton.GetComponent<Button>();
         nextButton.onClick.AddListener(TaskOnClick);
